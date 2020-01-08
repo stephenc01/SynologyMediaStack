@@ -1,0 +1,18 @@
+{
+  "name": "mediamanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MediaManager.js",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "os": "^0.1.1",
+    "sync-request": "^6.1.0",
+    "yargs": "^15.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
